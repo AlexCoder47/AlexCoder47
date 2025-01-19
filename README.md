@@ -11,8 +11,15 @@ Frontend developer from Russia 🇷🇺
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexCoder47)](https://github.com/AlexCoder47/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexCoder47&theme=solarized)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexCoder47&theme=solarized)
+
+
 
 
 
