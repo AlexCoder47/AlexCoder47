@@ -12,6 +12,6 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: AlexCoder47/AlexCoder47@main # this action name
+      - uses: AlexCoder47/AlexCoder47/.github/workflows/waka-readme@main # this action name
         with:
           WAKATIME_API_KEY: waka_a6801d12-46e8-4672-bab3-1cbdb6e17126
