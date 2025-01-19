@@ -16,8 +16,8 @@ Frontend developer from Russia 🇷🇺
 ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexCoder47&theme=solarized)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlexCoder47)](https://git.io/streak-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexcoderon&theme=solarized)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexcoderon)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
