@@ -19,7 +19,8 @@ Frontend developer from Russia 🇷🇺
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexCoder47&theme=solarized)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlexCoder47)](https://git.io/streak-stats)
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 
