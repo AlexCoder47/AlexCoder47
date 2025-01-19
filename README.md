@@ -17,7 +17,9 @@ Frontend developer from Russia 🇷🇺
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexCoder47&theme=solarized)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexCoder47&theme=solarized)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlexCoder47)](https://git.io/streak-stats)
+
+
 
 
 
